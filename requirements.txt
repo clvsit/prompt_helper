@@ -1,0 +1,16 @@
+loguru==0.7.0
+numpy==1.25.2
+pandas==2.0.3
+pyahocorasick==2.0.0
+pydantic==1.10.11
+pymongo==4.4.1
+PyYAML==6.0.1
+ray==2.6.3
+Requests==2.31.0
+rich==13.5.2
+shortuuid==1.0.11
+torch==2.0.1
+tqdm==4.65.0
+transformers==4.31.0
+accelerate==0.21.0
+SentencePiece==0.1.99
